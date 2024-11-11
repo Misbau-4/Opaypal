@@ -1,4 +1,4 @@
-# Starter Project
+# Opaypal Project
 
 Welcome to the **Starter Project** repository! This template is designed to accelerate your development process with a pre-configured setup for modern web applications. Whether you’re kicking off a new project or exploring a new framework, this repository provides a robust foundation to get you started right away.
 
